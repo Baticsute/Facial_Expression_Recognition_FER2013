@@ -51,4 +51,4 @@ Click Button "**Open Your Camera**" for real-time detecting yourself emotions fr
 
 ### Video Realtime
 
-Example will be uploaded later.
+Examples will be uploaded later.
