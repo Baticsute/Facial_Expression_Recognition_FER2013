@@ -1,21 +1,22 @@
 ### Facial_Expression_Recognition_FER2013
 Powered by Python 3.5
-### Libray Requirements
+### Library Requirements
 ```
  pip install tensorflow-gpu
  pip install keras
  pip install numpy
  pip install sklearn
  pip install pandas
- pip install opencv-python
+ pip install opencv-python==3.4.2
 ```
 ### Dataset
 FER2013
-Kaggle Challenge - https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+
+More details : Kaggle Challenge - https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 ### Accuracy Achivement
 Kaggle Challenge Winner **71.2%**.
 
-Model Combine  CNN1 + CNN2 + CNN-FAST + CNN_SIFT **72.89%**
+Model Combine  CNN1 + CNN2 + CNN_FAST + CNN_SIFT **72.89%**
 
 ![My Model](https://github.com/Baticsute/Facial_Expression_Recognition_FER2013/blob/master/images/CNN_KH.png)
 
@@ -25,7 +26,7 @@ Model Combine  CNN1 + CNN2 + CNN-FAST + CNN_SIFT **72.89%**
 ### CNN Architectures
 [Build from scratch in /cnn folder .](https://github.com/Baticsute/Facial_Expression_Recognition_FER2013/tree/master/cnn)
 
-### HOW ARE YOU TO DAY? Application
+### HOW ARE YOU TODAY? Application
 
 Run **UI.py** file to open application.
 
@@ -58,5 +59,5 @@ Examples will be uploaded later.
 
 ### Reference
 
-[The Idea From This Article](https://arxiv.org/abs/1608.02833)
+[The Main Idea From This Article.](https://arxiv.org/abs/1608.02833)
 
