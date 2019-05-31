@@ -7,7 +7,7 @@ Powered by Python 3.5
  pip install numpy
  pip install sklearn
  pip install pandas
- pip install opencv-python==3.4.2
+ pip install opencv-python==3.3.1
 ```
 ### Dataset
 FER2013
