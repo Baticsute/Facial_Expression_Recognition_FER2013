@@ -27,7 +27,7 @@ Model Combine  CNN1 + CNN2 + CNN-FAST + CNN_SIFT **72.89%**
 
 ### HOW ARE YOU TO DAY? Application
 
-Run UI.py file to open application.
+Run **UI.py** file to open application.
 
 ![User Interface](https://github.com/Baticsute/Facial_Expression_Recognition_FER2013/blob/master/images/UI.png)
 
