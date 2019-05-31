@@ -58,5 +58,5 @@ Examples will be uploaded later.
 
 ### Reference
 
-![The Idea From This Article](https://arxiv.org/ftp/arxiv/papers/1608/1608.02833.pdf)
+![The Idea From This Article](https://arxiv.org/abs/1608.02833)
 
