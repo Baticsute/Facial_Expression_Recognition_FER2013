@@ -26,6 +26,9 @@ Model Combine  CNN1 + CNN2 + CNN-FAST + CNN_SIFT **72.89%**
 [Build from scratch in /cnn folder .](https://github.com/Baticsute/Facial_Expression_Recognition_FER2013/tree/master/cnn)
 
 ### HOW ARE YOU TO DAY? Application
+
+Run UI.py file to open application.
+
 ![User Interface](https://github.com/Baticsute/Facial_Expression_Recognition_FER2013/blob/master/images/UI.png)
 
 You can choose some image and video that include human faces to detect emotions
